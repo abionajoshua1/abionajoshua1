@@ -36,34 +36,34 @@ I’m also exploring the world of **penetration testing**, understanding vulnera
 
 ### 🧱 Backend Development (Beginner–Intermediate Friendly)
 
-* 🔹 Building Django-based apps with clean architecture
-* 🔹 Designing scalable backend logic and database schemas
-* 🔹 Writing modular, reusable, and maintainable code
+*  Building Django-based apps with clean architecture
+*  Designing scalable backend logic and database schemas
+*  Writing modular, reusable, and maintainable code
 
 ### 🌐 API Design & Integration
 
-* 🔹 Creating RESTful APIs with Django REST Framework
-* 🔹 Integrating third-party APIs for real-world functionality
+* Creating RESTful APIs with Django REST Framework
+*  Integrating third-party APIs for real-world functionality
 
 ### 🔐 Web Security Fundamentals
 
-* 🔹 Understanding XSS, CSRF, SQL Injection prevention
-* 🔹 Applying best practices for secure backend development
+*  Understanding XSS, CSRF, SQL Injection prevention
+*  Applying best practices for secure backend development
 
 ### 🗃️ Database Handling
 
-* 🔹 Managing PostgreSQL databases and performing CRUD operations
-* 🔹 Writing optimized queries and migrations
+*  Managing PostgreSQL databases and performing CRUD operations
+*  Writing optimized queries and migrations
 
 ### 🧪 Testing & Debugging
 
-* 🔹 Testing APIs with Postman & pytest
-* 🔹 Debugging backend logic and improving reliability
+*  Testing APIs with Postman & pytest
+*  Debugging backend logic and improving reliability
 
 ### 🚀 Deployment & Version Control
 
-* 🔹 Deploying Django apps on Render
-* 🔹 Using Git & GitHub for source control and collaboration
+*  Deploying Django apps on Render
+*  Using Git & GitHub for source control and collaboration
 
 ---
 
