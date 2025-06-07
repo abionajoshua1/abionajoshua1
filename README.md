@@ -69,11 +69,6 @@ I’m also exploring the world of **penetration testing**, understanding vulnera
 
 ## 🚀 Featured Projects
 
-### 🔐 **SecureChat**
-
-> Real-time messaging app using **Django Channels** and **WebSockets**.
-> Features: secure login, encrypted messaging, and active user status.
-
 ### ☀️ **Weather App**
 
 > A simple and elegant app that displays real-time weather using third-party APIs.
