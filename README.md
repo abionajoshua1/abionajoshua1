@@ -1,91 +1,21 @@
----
+# 💫 About Me:
+I'm a passionate Backend Developer focused on building robust, secure, and scalable systems using Django and Python. I’m also exploring the world of penetration testing, understanding vulnerabilities to build smarter, more secure applications.<br><br>🧠 I believe that secure software starts with an awareness of how it can be broken.
 
-<h1 align="center">👋 Hi, I'm Abiona Joshua</h1>
-<h3 align="center">Secure Backend Developer | Django Enthusiast | Security Explorer</h3>
 
-<p align="center">
-  <i>“Build with precision. Secure with passion.”</i>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abionajoshua1 &theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abionajoshua1 &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abionajoshua1 &theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abionajoshua1 &theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## ⚙️ About Me
-
-I'm a passionate **Backend Developer** focused on building **robust**, **secure**, and **scalable** systems using Django and Python.
-I’m also exploring the world of **penetration testing**, understanding vulnerabilities to build smarter, more secure applications.
-
-> 🧠 *I believe that secure software starts with an awareness of how it can be broken.*
-
----
-
-## 🛠️ Tech Stack
-
-| Category            | Tools & Technologies                              |
-| ------------------- | ------------------------------------------------- |
-| **Languages**       | `Python` · `JavaScript` · `HTML` · `CSS` · `SQL`  |
-| **Frameworks**      | `Django`                                          |
-| **Databases**       | `PostgreSQL`                                      |
-| **Testing & Debug** | `pytest` · `Postman` · `Burp Suite` · `OWASP ZAP` |
-| **Version Control** | `Git` · `GitHub`                                  |
-| **Tooling & OS**    | `Nmap` · `Wireshark` · `Docker` · `Linux (Bash)`  |
-| **Deployment**      | `Render` · `Vercel`                               |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abionajoshua1 &limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=abionajoshua1 &icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💼 Core Competencies
-
-### 🧱 Backend Development (Beginner–Intermediate Friendly)
-
-*  Building Django-based apps with clean architecture
-*  Designing scalable backend logic and database schemas
-*  Writing modular, reusable, and maintainable code
-
-### 🌐 API Design & Integration
-
-* Creating RESTful APIs with Django REST Framework
-*  Integrating third-party APIs for real-world functionality
-
-### 🔐 Web Security Fundamentals
-
-*  Understanding XSS, CSRF, SQL Injection prevention
-*  Applying best practices for secure backend development
-
-### 🗃️ Database Handling
-
-*  Managing PostgreSQL databases and performing CRUD operations
-*  Writing optimized queries and migrations
-
-### 🧪 Testing & Debugging
-
-*  Testing APIs with Postman & pytest
-*  Debugging backend logic and improving reliability
-
-### 🚀 Deployment & Version Control
-
-*  Deploying Django apps on Render
-*  Using Git & GitHub for source control and collaboration
-
----
-
-## 🚀 Featured Projects
-
-### ☀️ **Weather App**
-
-> A simple and elegant app that displays real-time weather using third-party APIs.
-> Focused on UI simplicity and API integration.
-
-### ✅ **Todo App**
-
-> A minimal and responsive task manager built with Django.
-> Upcoming features: user authentication, task editing, and deployment.
-
-> 📌 *More projects in progress — I build small, but think big.*
-
----
-
-## 📬 Connect With Me
-
-* 🌐 [GitHub](https://github.com/abionajoshua1)
-* 📧 [Email](mailto:joshabiona1@gmail.com)
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
