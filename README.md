@@ -52,11 +52,21 @@ I'm a passionate **Backend Developer** specializing in building robust, secure, 
 
 ## 📊 GitHub Analytics
 
+### 🔥 Current Stats (2024)
+<div align="center">
+
+| 📈 **Metric** | 🎯 **Count** |
+|:---:|:---:|
+| 💻 **Total Contributions** | **98** |
+| 🔥 **Current Streak** | **Active** |
+| 📚 **Public Repositories** | **Growing** |
+| 🛡️ **Security Projects** | **In Progress** |
+
+</div>
+
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abionajoshua1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=0)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abionajoshua1&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abionajoshua1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0)
 
