@@ -54,11 +54,11 @@ I'm a passionate **Backend Developer** specializing in building robust, secure, 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abionajoshua1&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abionajoshua1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=0)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abionajoshua1&theme=radical&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abionajoshua1&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abionajoshua1&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abionajoshua1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0)
 
 </div>
 
