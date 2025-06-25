@@ -64,14 +64,17 @@ I'm a passionate **Junior Backend Developer** focused on building robust and sca
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/abionajoshua1/my_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abionajoshua1&repo=my_project&theme=tokyonight&hide_border=true" alt="My Project" />
-  </a>
-  <a href="https://github.com/abionajoshua1/BACKEND">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abionajoshua1&repo=BACKEND&theme=tokyonight&hide_border=true" alt="Backend Project" />
-  </a>
-</div>
+### 🔧 [My Project](https://github.com/abionajoshua1/my_project)
+A Django-based web application showcasing backend development skills with clean architecture and RESTful API design.
+
+**Tech Stack:** Django, Python, PostgreSQL, Docker
+
+---
+
+### ⚙️ [Backend Project](https://github.com/abionajoshua1/BACKEND)
+Comprehensive backend system demonstrating server-side development, database management, and API integration.
+
+**Tech Stack:** Django REST Framework, Python, Git
 
 ## 📫 Let's Connect
 
