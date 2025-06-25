@@ -56,11 +56,11 @@ I'm a passionate **Junior Backend Developer** focused on building robust and sca
 
 ## 💼 What I Bring to Your Team
 
-- **🎯 Problem-Solving Mindset**: I approach challenges methodically, breaking down complex problems into manageable solutions
-- **🔐 Security-Conscious Development**: Learning cybersecurity principles to write more secure code from the ground up
-- **📈 Growth-Oriented**: Constantly learning new technologies and best practices to stay current in the field
-- **🤝 Collaborative Spirit**: Experience working with version control and understanding the importance of clean, maintainable code
-- **⚡ Adaptable**: Quick to learn new frameworks and adapt to different project requirements
+- **🎯 Eager to Learn**: I'm genuinely excited about backend development and ask the right questions when I need help
+- **🔐 Security Awareness**: Currently studying cybersecurity fundamentals to understand how to build safer applications
+- **📈 Self-Motivated**: I spend time outside work hours learning new concepts and building personal projects
+- **🤝 Team Player**: Comfortable using Git for collaboration and writing clear code comments for my teammates
+- **⚡ Reliable**: I follow through on tasks, meet deadlines, and communicate openly about challenges I'm facing
 
 ## 🚀 Featured Projects
 
