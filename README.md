@@ -83,5 +83,4 @@ A full-featured todo application built with Django, demonstrating CRUD operation
 <div align="center">
   <i>"Every expert was once a beginner. Every pro was once an amateur."</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=abionajoshua1&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
