@@ -65,17 +65,11 @@ I'm a passionate **Junior Backend Developer** focused on building robust and sca
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/abionajoshua1/BACKEND">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abionajoshua1&repo=BACKEND&theme=tokyonight&hide_border=true" alt="Backend Project" />
-  </a>
-  <a href="https://github.com/abionajoshua1/todo_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abionajoshua1&repo=todo_project&theme=tokyonight&hide_border=true" alt="Todo Project" />
-  </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/abionajoshua1/my_project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abionajoshua1&repo=my_project&theme=tokyonight&hide_border=true" alt="My Project" />
+  </a>
+  <a href="https://github.com/abionajoshua1/BACKEND">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abionajoshua1&repo=BACKEND&theme=tokyonight&hide_border=true" alt="Backend Project" />
   </a>
 </div>
 
