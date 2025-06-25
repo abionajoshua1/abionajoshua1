@@ -44,20 +44,6 @@ I'm a passionate **Junior Backend Developer** focused on building robust and sca
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abionajoshua1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=Joshua's%20GitHub%20Stats&hide=issues" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=abionajoshua1&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abionajoshua1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
 ## 💼 What I Bring to Your Team
 
 - **🎯 Eager to Learn**: I'm genuinely excited about backend development and ask the right questions when I need help
