@@ -47,7 +47,11 @@ I'm a passionate **Junior Backend Developer** focused on building robust and sca
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abionajoshua1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abionajoshua1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=Joshua's%20GitHub%20Stats&hide=issues" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=abionajoshua1&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
