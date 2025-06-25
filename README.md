@@ -54,31 +54,24 @@ I'm a passionate **Junior Backend Developer** focused on building robust and sca
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abionajoshua1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
+## 💼 What I Bring to Your Team
+
+- **🎯 Problem-Solving Mindset**: I approach challenges methodically, breaking down complex problems into manageable solutions
+- **🔐 Security-Conscious Development**: Learning cybersecurity principles to write more secure code from the ground up
+- **📈 Growth-Oriented**: Constantly learning new technologies and best practices to stay current in the field
+- **🤝 Collaborative Spirit**: Experience working with version control and understanding the importance of clean, maintainable code
+- **⚡ Adaptable**: Quick to learn new frameworks and adapt to different project requirements
+
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abionajoshua1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <a href="https://github.com/abionajoshua1/your-project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abionajoshua1&repo=your-project-1&theme=tokyonight&hide_border=true" alt="Project 1" />
+  </a>
+  <a href="https://github.com/abionajoshua1/your-project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abionajoshua1&repo=your-project-2&theme=tokyonight&hide_border=true" alt="Project 2" />
+  </a>
 </div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abionajoshua1&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 🎯 2024 Goals
-
-- [ ] Build 5+ Django projects with different complexity levels
-- [ ] Complete basic penetration testing certification
-- [ ] Contribute to open-source Django packages
-- [ ] Master Docker containerization for Django apps
-- [ ] Learn infrastructure as code basics
-
-## 📚 Currently Reading
-
-- "The Web Application Hacker's Handbook" by Dafydd Stuttard
-- "Two Scoops of Django" by Daniel Roy Greenfeld
-- "Clean Code" by Robert C. Martin
 
 ## 📫 Let's Connect
 
