@@ -55,6 +55,13 @@ I'm a passionate **Junior Backend Developer** focused on building robust and sca
 
 ## 🚀 Featured Projects
 
+### 🌤️ [Weather Detector](https://github.com/abionajoshua1/weatherdetector.git)
+A dynamic weather application that provides real-time weather information and forecasts. Built with modern web technologies to deliver accurate weather data with an intuitive user interface.
+
+**Tech Stack:** Python, Django, Weather API Integration, HTML/CSS, JavaScript
+
+---
+
 ### 🔧 [My Project](https://github.com/abionajoshua1/my_project)
 A Django-based web application showcasing backend development skills with clean architecture and RESTful API design.
 
