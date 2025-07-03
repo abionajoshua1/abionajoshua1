@@ -55,6 +55,13 @@ I'm a passionate **Junior Backend Developer** focused on building robust and sca
 
 ## 🚀 Featured Projects
 
+### 💰 [Expense Tracker](https://github.com/abionajoshua1/expense_tracker.git)
+A comprehensive expense tracking application that helps users manage their finances with intuitive categorization, spending analysis, and budget monitoring features. Built with Django to demonstrate advanced backend development skills.
+
+**Tech Stack:** Django, Python, PostgreSQL, HTML/CSS, JavaScript
+
+---
+
 ### 🌤️ [Weather Detector](https://github.com/abionajoshua1/weatherdetector.git)
 A dynamic weather application that provides real-time weather information and forecasts. Built with modern web technologies to deliver accurate weather data with an intuitive user interface.
 
